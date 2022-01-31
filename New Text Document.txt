@@ -1,0 +1,8 @@
+<body>
+<form action="/addvalues"method="post" >
+<input type="number" name="mid"><br>
+<input type="text" name="mname"><br>
+<input type="text" name="mtech"><br>
+<input type="submit"><br>
+
+</form>
